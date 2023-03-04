@@ -13,7 +13,7 @@ const routes = [
     },
     {
         path:'/home',
-        component: HelloWorld
+        component: Translate
     },
     {
         path:'/translate',
